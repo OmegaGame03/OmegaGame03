@@ -1,0 +1,36 @@
+Titolo del Progetto: ViaggiFacili
+
+Descrizione del Progetto:
+
+ViaggiFacili è un sito web destinato a semplificare l’organizzazione di viaggi personalizzati. Attraverso un’interfaccia user-friendly, gli utenti possono inserire i dettagli del loro viaggio, come la città di partenza e la destinazione desiderata, oltre all’orario di arrivo previsto. Basandosi su queste informazioni, il sito proporrà opzioni predefinite per i mezzi di trasporto e gli hotel disponibili nella destinazione scelta, utilizzando un database interno di dati statici.
+
+Funzionalità del Sito:
+
+	1.	Ricerca Trasporti: Gli utenti inseriscono dettagli del viaggio e il sistema suggerisce mezzi di trasporto come aerei, treni o autobus, utilizzando informazioni pre-caricate.
+	2.	Suggerimenti Alloggi: Parallelamente alle opzioni di trasporto, il sito fornirà anche informazioni sugli hotel, inclusi dettagli come nome, indirizzo, fascia di prezzo e valutazione, facilitando agli utenti la prenotazione del soggiorno.
+	3.	Gestione Utenti: Gli utenti possono creare profili personali per gestire i loro viaggi salvati, visualizzare cronologie di viaggio passate e configurare preferenze di viaggio.
+
+Tecnologie e Librerie Utilizzate:
+
+	•	Python: Utilizzato per la sua sintassi chiara e la vasta gamma di librerie disponibili, rendendolo ideale per lo sviluppo rapido e la manutenzione del sito.
+	•	Django: Questo framework web robusto è scelto per le sue capacità di gestione sicura delle sessioni utente, l’autenticazione, l’interfaccia amministrativa e la mappatura URL.
+	•	SQLite: Impiegato per il database interno, offre una soluzione semplice e integrata per lo sviluppo e il testing locale.
+	•	Html Utilizzato per lo sviluppo front-end.
+
+Fasi di Sviluppo:
+
+	1.	Configurazione Ambientale: Setup iniziale di Django e preparazione dell’ambiente di sviluppo.
+	2.	Creazione del Modello di Dati: Definizione dei modelli per il database che includono utenti, trasporti e dettagli degli hotel.
+	3.	Implementazione della Logica del Sito: Sviluppo delle funzionalità di ricerca e visualizzazione dei risultati di trasporto e alloggi.
+	4.	Progettazione del Front-End: Realizzazione delle interfacce utente utilizzando Html.
+
+
+
+Il sito viaggi facili potrebbe essere ulteriormente migliorato, creando una unlteriore classe chiamata AttrazioniTuristicheMonumenti con gli opportuni attributi collegandola e implementandola con il resto del sito
+Sviluppare delle funzioni di ricerca più approfondite tramite ulteriori filtri più dettagliati e più specifici.
+La classe alberghi potrebbe essere ulteriormente migliorata con l'inserimento di fotografie.
+
+Allego due immagini del sito
+
+![88c66842-ba65-420c-b8e1-6eea0798755d](https://github.com/user-attachments/assets/81bd97f1-e137-4052-afbf-e43cddb1844d)
+![e213e298-c7f3-4cbc-9df6-cef44019e6f5](https://github.com/user-attachments/assets/4bdaee94-9a35-4349-a6e4-e6bce5da1777)
